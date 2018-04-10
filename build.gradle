@@ -2,7 +2,7 @@ buildscript {
     ext.maven = [
             'siteUrl'            : 'https://github.com/bblackbelt/material-range-bar',
             'gitUrl'             : 'https://github.com/bblackbelt/material-range-bar.git',
-            'repo'               : 'android',
+            'repo'               : 'material-range-bar',
             'artifactGroup'      : 'com.bblackbelt',
             'licenses'           : ["Apache-2.0"],
             'artifactVersion'    : '1.0.0',

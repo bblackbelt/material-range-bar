@@ -120,7 +120,7 @@ bintray {
 publishing {
     publications {
         Publication(MavenPublication) {
-            artifact("$buildDir/outputs/aar/m-materialrangebar-release.aar")
+            artifact("$buildDir/outputs/aar/materialrangebar-release.aar")
             artifact sourcesJar
             artifact javadocJar
             groupId maven.artifactGroup
